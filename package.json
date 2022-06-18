@@ -1,0 +1,17 @@
+{
+  "name": "code-xingqiu",
+  "version": "2.0.0",
+  "description": "编程导航知识星球",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev .",
+    "docs:build": "vuepress build ."
+  },
+  "devDependencies": {
+    "@vuepress/plugin-search": "^2.0.0-beta.48",
+    "vuepress": "^2.0.0-beta.48",
+    "vuepress-plugin-china-search-console": "^2.1.1",
+    "vuepress-plugin-clipboard": "^2.1.1",
+    "vuepress-plugin-seo2": "^2.0.0-beta.83"
+  }
+}
