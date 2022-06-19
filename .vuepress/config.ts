@@ -14,15 +14,14 @@ export default defineUserConfig({
     // 改成自己的百度统计 https://tongji.baidu.com/
     head: [
         ['script', {}, `
-        var _hmt = _hmt || [];
-        (function() {
-          var hm = document.createElement("script");
-          hm.src = "https://hm.baidu.com/hm.js?ff1c9b53725e29d3ea8d6c7784d8c649";
-          var s = document.getElementsByTagName("script")[0]; 
-          s.parentNode.insertBefore(hm, s);
-        })();
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?d6dba90b6d34581f364377a36215fd26";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
       `],
-        ['meta', {name: 'referrer', content: 'no-referrer'}],
         ['meta', {name: 'keywords', content: '编程学习圈子,程序员学习,程序员,代码,编程项目,编程导航,程序员鱼皮'}],
         ['meta', {
             name: 'description', content:
@@ -36,6 +35,8 @@ export default defineUserConfig({
         navbar,
         editLink: false,
         smoothScroll: true,
+        contributors: false,
+        lastUpdated: false,
     }),
     plugins: [
         searchPlugin({
@@ -50,7 +51,7 @@ export default defineUserConfig({
             author: '程序员鱼皮',
         }),
         searchConsolePlugin({
-            baiduId: 'ff1c9b53725e29d3ea8d6c7784d8c649'
+            baiduId: 'd6dba90b6d34581f364377a36215fd26'
         })
     ]
 });

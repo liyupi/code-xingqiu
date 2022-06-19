@@ -26,10 +26,10 @@
 
 利用工作之余的时间熬夜肝出的网站，代码均已开源并累积收获近万的 star：
 
-1. 编程导航：https://www.code-nav.cn，已帮助十万多名小伙伴找到优质编程学习资源！
-2. 面试鸭：https://www.mianshiya.com，帮助大家面试刷题
-3. 测试鸭：https://ceshiya.vercel.app，帮助大家实践学习网络安全知识
-4. SQL 生成器：http://sql.yupi.icu，前端小工具
+1. 编程导航：[https://www.code-nav.cn](https://www.code-nav.cn)，已帮助十万多名小伙伴找到优质编程学习资源！
+2. 面试鸭：[https://www.mianshiya.com](https://www.mianshiya.com)，帮助大家面试刷题
+3. 测试鸭：[https://ce.mianshiya.com](https://ce.mianshiya.com)，帮助大家实践学习网络安全知识
+4. SQL 生成器：[http://sql.yupi.icu](http://sql.yupi.icu)，前端小工具
 
 还有很多，就不一一列举了。
 
@@ -37,7 +37,7 @@
 
 ## 我的 GitHub
 
-地址：https://github.com/liyupi
+地址：[https://github.com/liyupi](https://github.com/liyupi)
 
 里面有一些还算有用的代码，比如上面提到的网站~
 
@@ -47,7 +47,7 @@
 
 ## 我的 B 站
 
-主页：https://space.bilibili.com/12890453
+主页：[程序员鱼皮](https://space.bilibili.com/12890453)
 
 前期分享编程干货、个人学习方法；目前侧重于分享自制的、好玩的编程项目，想做一些和别人不一样的内容，带大家一起感受编程的乐趣！
 
@@ -65,7 +65,7 @@
 
 鱼皮的付费编程学习圈子，加入后可以向鱼皮等大厂同学 1 对 1 提问，跟鱼皮的直播学做完整项目，获取鱼皮原创和整理的编程学习路线、学习经验、求职技巧等，和近万名小伙伴一起更好地学习编程，不再迷茫！
 
-欢迎加入：https://yupi.icu/
+欢迎加入：[编程导航知识星球](https://yupi.icu)
 
 
 
