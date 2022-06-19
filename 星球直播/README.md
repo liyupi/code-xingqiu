@@ -43,3 +43,13 @@
 每期项目都有完整的回放和笔记，可以节省小伙伴们自己排查问题的时间、减少开发中的卡点：
 
 ![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/dYOrVLwNiGD0MgBL9tq39w-20220619122250909.png)        
+
+
+
+#### 加入星球
+
+[🧧 点此领优惠券加入星球](/加入星球)
+
+也可以直接扫下方二维码领优惠券加入体验，3 天内可全额退款：
+
+![微信扫码领券加入](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/%E6%98%9F%E7%90%83%E4%BC%98%E6%83%A0%E5%88%B8.png)
