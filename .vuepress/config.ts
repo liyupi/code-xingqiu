@@ -17,7 +17,7 @@ export default defineUserConfig({
             var _hmt = _hmt || [];
             (function() {
               var hm = document.createElement("script");
-              hm.src = "https://hm.baidu.com/hm.js?d6dba90b6d34581f364377a36215fd26";
+              hm.src = "https://hm.baidu.com/hm.js?e8b2fdb7b7cfb4f306a16354a913d7fb";
               var s = document.getElementsByTagName("script")[0]; 
               s.parentNode.insertBefore(hm, s);
             })();
@@ -51,7 +51,7 @@ export default defineUserConfig({
             author: '程序员鱼皮',
         }),
         searchConsolePlugin({
-            baiduId: 'd6dba90b6d34581f364377a36215fd26'
+            baiduId: 'e8b2fdb7b7cfb4f306a16354a913d7fb'
         })
     ]
 });
