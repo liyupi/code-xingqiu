@@ -24,6 +24,7 @@
 
 用户中心项目第一期完整版：[点击在线观看](https://meeting.tencent.com/v2/cloud-record/share?id=8d55db2b-57a6-45a3-802b-70ab5ecd3004&from=3) ，访问密码：EHPx
 
+[点击查看更多往期直播](/星球直播/往期直播.md)
 
 ## 大家的反馈
 
