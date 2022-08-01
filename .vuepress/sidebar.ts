@@ -1,4 +1,4 @@
-import { SidebarConfig } from "@vuepress/theme-default/lib/shared/nav";
+import {SidebarConfig} from "@vuepress/theme-default/lib/shared/nav";
 
 export default [
     {
@@ -14,7 +14,8 @@ export default [
     {
         text: '星球项目',
         collapsible: true,
-        children: ['/星球项目/用户中心项目', '/星球项目/Java 后端万用项目模板', '/星球项目/伙伴匹配系统', '/星球项目/工作记录分析工具'],
+        children: ['/星球项目/用户中心项目', '/星球项目/Java 后端万用项目模板', '/星球项目/伙伴匹配系统', '/星球项目/Web 终端项目',
+            '/星球项目/工作记录分析工具'],
     },
     {
         text: '星球直播',
