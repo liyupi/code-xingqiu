@@ -125,7 +125,7 @@
 
 > 加入 3 天内可以全额退款，感兴趣的同学可以先加入体验，自己判断是否有价值。
 
-![微信扫码领券加入](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/%E6%98%9F%E7%90%83%E4%BC%98%E6%83%A0%E5%88%B8.png)
+![微信扫码领券加入](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/%E6%98%9F%E7%90%83%E4%BC%98%E6%83%A0%E5%88%B8%20(5).png)
 
 加入后请先阅读星球内的【置顶帖子】查看详细用法以及获取资料哈~
 
