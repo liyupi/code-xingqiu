@@ -66,7 +66,7 @@
 
 ![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/image-20220928131945289.png)
 
-还有教你从 0 到 1 做完整项目的训练营，包括直播回放、学习资料和完整项目代码：
+还有教你从 0 到 1 [做完整项目的训练营](/星球项目/项目训练营.md)，包括直播回放、学习资料和完整项目代码：
 
 ![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/image-20221008130320730.png)
 
