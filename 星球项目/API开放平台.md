@@ -6,7 +6,7 @@
 
 ## 项目简介
 
-这次做的是一个提供 API 接口供开发者调用的平台**（分布式项目）**。
+这次做的是一个提供 API 接口供开发者调用的平台 **（分布式项目）**。
 
 管理员可以接入并发布接口，统计分析各接口调用情况；用户可以注册登录并开通接口调用权限，然后可以浏览接口及在线调试，还能使用客户端 SDK 轻松在代码中调用接口。
 
@@ -32,7 +32,7 @@
 
 此外，还能学习到最最最方便的项目开发方式。熟练之后，**几分钟开发一个新功能** 真的轻轻松松！
 
-> 感兴趣的同学可以 **免费试看** 第一期项目回放：https://www.aliyundrive.com/s/WAD1BZodL9s（提取码: z25c）
+> 感兴趣的同学可以 **免费试看** 第一期项目回放：[https://www.aliyundrive.com/s/WAD1BZodL9s](https://www.aliyundrive.com/s/WAD1BZodL9s)（提取码: z25c）
 >
 > [加入星球后](/加入星球.md)，获取所有教程回放和源码笔记等资料。
 
@@ -58,7 +58,7 @@
 
 当然，如果你是前端，也可以通过这个项目学习到快速开发前端项目的技巧，但是最好学习过 Vue 或 React 框架。
 
-> 感兴趣的同学可以 **免费试看** 第一期项目回放：https://www.aliyundrive.com/s/WAD1BZodL9s（提取码: z25c）
+> 感兴趣的同学可以 **免费试看** 第一期项目回放：[https://www.aliyundrive.com/s/WAD1BZodL9s](https://www.aliyundrive.com/s/WAD1BZodL9s)（提取码: z25c）
 >
 > [加入星球后](/加入星球.md)，获取所有教程回放和源码笔记等资料。
 
@@ -155,7 +155,7 @@
 
 
 
-最关键的是，鱼皮已经整理好了这个项目的简历写法和亮点（也就接近 20 个吧），做完项目后就能直接填满简历！
+最关键的是，鱼皮已经整理好了这个项目的简历写法和亮点 **（也就接近 20 个吧）**，做完项目后就能直接填满简历！
 
 ![简历写法文档](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/image-20230111121050285.png)
 
@@ -170,7 +170,7 @@
 
 ![项目笔记](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/image-20230111121306473.png)
 
-> 感兴趣的同学可以 **免费试看** 第一期项目回放：https://www.aliyundrive.com/s/WAD1BZodL9s（提取码: z25c）
+> 感兴趣的同学可以 **免费试看** 第一期项目回放：[https://www.aliyundrive.com/s/WAD1BZodL9s](https://www.aliyundrive.com/s/WAD1BZodL9s)（提取码: z25c）
 >
 > [加入星球后](/加入星球.md)，获取所有教程回放和源码笔记等资料。
 

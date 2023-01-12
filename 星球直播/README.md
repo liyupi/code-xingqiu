@@ -25,6 +25,13 @@
 
 用户中心项目第一期完整版：[点击在线观看](https://meeting.tencent.com/v2/cloud-record/share?id=8d55db2b-57a6-45a3-802b-70ab5ecd3004&from=3) ，访问密码：EHPx
 
+伙伴匹配项目第一期完整版：[点击在线观看](https://meeting.tencent.com/user-center/shared-record-info?id=b81b85c4-632e-4340-8d3f-1987ac70ff61&from=3) ，访问密码：nxTk
+
+API 开放平台项目第一期完整版：[点击在线观看](https://www.aliyundrive.com/s/WAD1BZodL9s)，提取码: z25c
+
+项目训练营：[点击在线观看](https://www.aliyundrive.com/s/rcFczasMKVK)，提取码: cu89
+
+
 [点击查看更多往期直播](/星球直播/往期直播.md)
 
 ## 大家的反馈
