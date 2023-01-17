@@ -83,5 +83,6 @@ export default [
         collapsible: true,
         children: ['/关于星主/', '/关于星主/个人经历'],
     },
+    '/星球年度总结',
     '/加入星球',
 ] as SidebarConfig;
