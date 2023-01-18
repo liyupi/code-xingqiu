@@ -32,7 +32,7 @@
 
 此外，还能学习到最最最方便的项目开发方式。熟练之后，**几分钟开发一个新功能** 真的轻轻松松！
 
-> 感兴趣的同学可以 **免费试看** 第一期项目回放：[https://www.aliyundrive.com/s/WAD1BZodL9s](https://www.aliyundrive.com/s/WAD1BZodL9s)（提取码: z25c）
+> 感兴趣的同学可以 **免费试看** 第一期项目回放：[https://www.bilibili.com/video/BV1Nd4y157Dm](https://www.bilibili.com/video/BV1Nd4y157Dm)
 >
 > [加入星球后](/加入星球.md)，获取所有教程回放和源码笔记等资料。
 
@@ -58,7 +58,7 @@
 
 当然，如果你是前端，也可以通过这个项目学习到快速开发前端项目的技巧，但是最好学习过 Vue 或 React 框架。
 
-> 感兴趣的同学可以 **免费试看** 第一期项目回放：[https://www.aliyundrive.com/s/WAD1BZodL9s](https://www.aliyundrive.com/s/WAD1BZodL9s)（提取码: z25c）
+> 感兴趣的同学可以 **免费试看** 第一期项目回放：[https://www.bilibili.com/video/BV1Nd4y157Dm](https://www.bilibili.com/video/BV1Nd4y157Dm)
 >
 > [加入星球后](/加入星球.md)，获取所有教程回放和源码笔记等资料。
 
@@ -170,7 +170,7 @@
 
 ![项目笔记](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/image-20230111121306473.png)
 
-> 感兴趣的同学可以 **免费试看** 第一期项目回放：[https://www.aliyundrive.com/s/WAD1BZodL9s](https://www.aliyundrive.com/s/WAD1BZodL9s)（提取码: z25c）
+> 感兴趣的同学可以 **免费试看** 第一期项目回放：[https://www.bilibili.com/video/BV1Nd4y157Dm](https://www.bilibili.com/video/BV1Nd4y157Dm)
 >
 > [加入星球后](/加入星球.md)，获取所有教程回放和源码笔记等资料。
 
