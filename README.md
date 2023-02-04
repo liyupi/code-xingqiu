@@ -17,7 +17,7 @@
 
 微信扫码体验：
 
-![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/%E6%98%9F%E7%90%83%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93%E4%BC%98%E6%83%A0.png)
+![开学春招星球优惠券](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/%E5%BC%80%E5%AD%A6%E6%98%A5%E6%8B%9B%E6%98%9F%E7%90%83%E4%BC%98%E6%83%A0%E5%88%B8.png)
 
 欢迎观看 [2022 星球年度总结大会](/星球年度总结.md) 来了解星球。
 
