@@ -1,26 +1,8 @@
 # 编程导航知识星球
 
 > by 程序员鱼皮，本站地址：[https://yupi.icu](https://yupi.icu)
-> 
 
 一个帮助你学习编程、少走弯路的圈子，已运营一年，有上万名小伙伴加入！💎
-
-
-
-## 🔥 开学&春招季优惠
-
-星球已运营一整年，**2 月 8 日前** 限时发放 **50 元优惠券** ！
-
-名额有限，欢迎大家加入体验，3 天内不满意可全额退款！
-
-> 注意：本次优惠结束后，近几个月不再公开发放优惠！
-
-微信扫码体验：
-
-![开学春招星球优惠券](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/%E5%BC%80%E5%AD%A6%E6%98%A5%E6%8B%9B%E6%98%9F%E7%90%83%E4%BC%98%E6%83%A0%E5%88%B8.png)
-
-欢迎观看 [2022 星球年度总结大会](/星球年度总结.md) 来了解星球。
-
 
 
 ## 星球介绍
@@ -178,7 +160,9 @@ API 开放平台项目第一期完整版：[点击在线观看](https://www.bili
 
 ![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/kuks7aIZW_0HC0bF3Lr8OQ.jpeg)
 
+### 七、星球用户专属平台
 
+网址：[https://www.code-nav.cn](https://www.code-nav.cn)，会陆续开放对大家学编程有帮助的功能
 
 ## 加入星球
 
