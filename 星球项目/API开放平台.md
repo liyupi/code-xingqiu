@@ -2,6 +2,18 @@
 
 已完结，共 7 场直播，总时长近 20 小时，加入星球可见所有回放。
 
+**本项目已帮助多名小伙伴拿到高薪 offer** ！如下图：
+
+![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/image-20230303094640912.png)
+
+![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/image-20230303094502786.png)
+
+![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/701677641926_.pic.jpg)
+
+![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/791677800639_.pic.jpg)
+
+![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/781677764412_.pic.jpg)
+
 
 
 ## 项目简介
