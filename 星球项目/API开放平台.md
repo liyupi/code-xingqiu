@@ -4,15 +4,15 @@
 
 **本项目已帮助多名小伙伴拿到高薪 offer** ！如下图：
 
-![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/image-20230303094640912.png)
+![](https://yupi.icu/img/image-20230303094640912.png)
 
-![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/image-20230303094502786.png)
+![](https://yupi.icu/img/image-20230303094502786.png)
 
-![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/701677641926_.pic.jpg)
+![](https://yupi.icu/img/701677641926_.pic.jpg)
 
-![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/791677800639_.pic.jpg)
+![](https://yupi.icu/img/791677800639_.pic.jpg)
 
-![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/781677764412_.pic.jpg)
+![](https://yupi.icu/img/781677764412_.pic.jpg)
 
 
 
@@ -26,19 +26,19 @@
 
 主页（用户可以浏览接口）：
 
-![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/1673399530597-2748898e-9f88-4329-85fc-f7bcdba3ae8a-20230111115648959-20230111123136346.png)
+![](https://yupi.icu/img/1673399530597-2748898e-9f88-4329-85fc-f7bcdba3ae8a-20230111115648959-20230111123136346.png)
 
 接口管理（管理员控制接口发布 / 下线）：
 
-![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/1673399741446-9627305d-cd5e-4dbf-b51a-fc249d2206db-20230111115649247-20230111123136831.png)
+![](https://yupi.icu/img/1673399741446-9627305d-cd5e-4dbf-b51a-fc249d2206db-20230111115649247-20230111123136831.png)
 
 在线调试（一键调用接口）：
 
-![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/1673399936177-ae0942ec-f0cc-4481-b101-b109e849b3be-20230111115649455-20230111123137336.png)
+![](https://yupi.icu/img/1673399936177-ae0942ec-f0cc-4481-b101-b109e849b3be-20230111115649455-20230111123137336.png)
 
 使用自己开发的客户端 SDK（一行代码调用接口）：
 
-![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/1673400021340-08220e8e-3aaf-4ca6-bdd6-c7165402151e-20230111115649702-20230111123137448.png)
+![](https://yupi.icu/img/1673400021340-08220e8e-3aaf-4ca6-bdd6-c7165402151e-20230111115649702-20230111123137448.png)
 
 从需求分析、技术选型、系统设计、前后端开发再到最后上线，整个项目的制作过程为 **全程直播** ！除了学做项目之外，大家还能学到很多思考问题、对比方案的套路，并提升排查问题、解决 Bug 的能力。
 
@@ -56,11 +56,11 @@
 
 如下图，有点儿人看的文章基本都是几年前的了：
 
-![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/1673320096281-17d8c09b-93c2-456c-b805-dace09605e7e-20230111115805410-20230111123137942.png)
+![](https://yupi.icu/img/1673320096281-17d8c09b-93c2-456c-b805-dace09605e7e-20230111115805410-20230111123137942.png)
 
 此外，开放平台项目涉及 **多个系统** 的交互（不止有一个后端），包含了 API 签名认证、网关、RPC、分布式等必学知识，很适合帮助后端同学开拓眼界、提升系统设计和架构能力，而这点是很多网课不能做到的。
 
-![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/1673400300009-9d6c7262-d1e8-4484-8386-e1971a423b56-20230111115805577-20230111123138048.png)
+![](https://yupi.icu/img/1673400300009-9d6c7262-d1e8-4484-8386-e1971a423b56-20230111115805577-20230111123138048.png)
 
 
 
@@ -169,7 +169,7 @@
 
 最关键的是，鱼皮已经整理好了这个项目的简历写法和亮点 **（也就接近 20 个吧）**，做完项目后就能直接填满简历！
 
-![简历写法文档](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/image-20230111121050285.png)
+![简历写法文档](https://yupi.icu/img/image-20230111121050285.png)
 
 
 
@@ -180,7 +180,7 @@
 
 最关键的是：做项目的过程中，有任何问题，都可以和大家交流或者 **直接加微信向鱼皮提问** ！
 
-![项目笔记](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/image-20230111121306473.png)
+![项目笔记](https://yupi.icu/img/image-20230111121306473.png)
 
 > 感兴趣的同学可以 **免费试看** 第一期项目回放：[https://www.bilibili.com/video/BV1Nd4y157Dm](https://www.bilibili.com/video/BV1Nd4y157Dm)
 >
@@ -190,7 +190,7 @@
 
 已经有不少小伙伴学起来了，还有很多大家自发整理的笔记。不得不说，做项目真的给了很多同学一个坚持学习的目标，大家的动力也更足了：
 
-![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/image-20230111121645038.png)
+![](https://yupi.icu/img/image-20230111121645038.png)
 
 
 

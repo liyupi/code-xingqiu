@@ -18,7 +18,7 @@
 
 鱼皮的原创博客，分享编程学习经验、技术干货、项目设计思路、大厂求职面经、个人成长经历、免费编程学习资料等，用我自己的经历和经验帮助大家少走弯路进大厂。
 
-![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/qp2h0duBfi6u3zTCRCmjDw-20220618230235102.png)        
+![](https://yupi.icu/img/qp2h0duBfi6u3zTCRCmjDw-20220618230235102.png)        
 
 
 

@@ -38,19 +38,19 @@ API 开放平台项目第一期完整版：[点击在线观看](https://www.bili
 
 这是第一期用户中心项目的直播，基本上每期项目直播都是连续 3 小时以上无休：
 
-![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/pzmjCL5t8tsaeCtbD4KU9Q-20220619122153986.png)        
+![](https://yupi.icu/img/pzmjCL5t8tsaeCtbD4KU9Q-20220619122153986.png)        
 
 这是小伙伴跟着我的直播独立上线了项目，其实项目中涉及的代码并不多，主要讲解的是开发的思路和经验方法：
 
-![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/a42-ZeaNXuKFR6v3y_LZHQ-20220619122108766.png)        
+![](https://yupi.icu/img/a42-ZeaNXuKFR6v3y_LZHQ-20220619122108766.png)        
 
 这是有一次从 21 ：30 直播到凌晨 1 ：30，连续 4 个小时无休（第二天还要上班）！直播过程中难免会出现一些坑，但是我都会带大家一一解决：
 
-![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/nJaedsFbxPTZDLBpFdNGkg-20220619122212020.png)        
+![](https://yupi.icu/img/nJaedsFbxPTZDLBpFdNGkg-20220619122212020.png)        
 
 每期项目都有完整的回放和笔记，可以节省小伙伴们自己排查问题的时间、减少开发中的卡点：
 
-![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/dYOrVLwNiGD0MgBL9tq39w-20220619122250909.png)        
+![](https://yupi.icu/img/dYOrVLwNiGD0MgBL9tq39w-20220619122250909.png)        
 
 
 
