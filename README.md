@@ -2,7 +2,7 @@
 
 > by 程序员鱼皮，本站地址：[https://yupi.icu](https://yupi.icu)
 
-一个帮助你学习编程、少走弯路的圈子，已运营一年多，有 **1.6 万** 多名小伙伴加入！💎
+一个帮助你学习编程、少走弯路的圈子，已运营一年多，有 **1.7 万** 多名小伙伴加入！💎
 
 > 求职季，星球的项目已经帮助多名小伙伴拿到大厂 offer，建议看完本文。
 
@@ -114,7 +114,7 @@
 
 星球的资源和知识内容非常丰富，包括但不限于：
 
-- 鱼皮原创 10+ 编程学习路线
+- 鱼皮原创 15+ 编程学习路线
 - 鱼皮原创编程学习知识库
 - 鱼皮原创几十场编程项目 + 经验分享直播
 - 600 多篇星球精华内容（球友共创）
@@ -159,7 +159,7 @@
 
 ![](https://yupi.icu/img/791677800639_.pic.jpg)
 
-[最新进行中 - 聚合搜索平台项目](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247539314&idx=1&sn=16fbb955d2e40eb6e3a3937d045e53f2&chksm=e9c2bd85deb53493b848e521eeecd38ac32a70176e38e7d303f46013cb361026f2bf562ff470&token=292259508&lang=zh_CN#rd)
+[聚合搜索平台项目](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247539314&idx=1&sn=16fbb955d2e40eb6e3a3937d045e53f2&chksm=e9c2bd85deb53493b848e521eeecd38ac32a70176e38e7d303f46013cb361026f2bf562ff470&token=292259508&lang=zh_CN#rd)
 
 ![](https://yupi.icu/img/yuso.png)
 
@@ -267,13 +267,13 @@ API 开放平台项目第一期完整版：[点击在线观看](https://www.bili
 
 ### 交流群
 
-我们运营了 50 多个星球专属交流群（手动拉的 500 人群），加群总人数近万。
+我们运营了 70 多个星球专属交流群（手动拉的 500 人群），加群总人数过万。
 
 各方向的交流群都有，而且群内我们还会每日给大家推送星球优质文章，激励大家学起来~
 
 此外，我们与时俱进、有求必应，大家需要什么群，我们就组织什么！
 
-比如秋招冲刺群、职场交流群、考研群、项目交流群、ACM 算法群、QQ 算法刷题群（3000 人）、字节青训营交流群、春招 & 暑期实习交流群、面试刷题打卡群等。
+比如秋招冲刺群、职场交流群、考研群、项目交流群、软考群、ACM 算法群、QQ 算法刷题群（3000 人）、字节青训营交流群、春招 & 暑期实习交流群、面试刷题打卡群等。
 
 ![星球专属交流群](https://yupi.icu/img/1673534286181-cc605f1e-a5a9-4ba9-8f2c-be08cc76a85f-20230115145405058.png)
 
@@ -344,7 +344,7 @@ API 开放平台项目第一期完整版：[点击在线观看](https://www.bili
 - [⭐️ 从 0 到 1 开发用户中心](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247508517&idx=1&sn=66803910cf2e7d88e6cab30df9271d5d&chksm=e9c245d2deb5ccc4a2287198f594e7fbcb43d00b0101d9cab77ff17c1412c46e5d99a438e48d&token=351205063&lang=zh_CN#rd)（保姆级前后端完整项目教程）
 - [⭐️ 伙伴匹配系统](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247527878&idx=1&sn=00ef3e8862cec2570eeb2e74a232c700&chksm=e9c28a31deb5032784071939437fba3fd6fdb810f0f849aa90536259d8d8bc25453328b86c12&token=351205063&lang=zh_CN#rd)（前后端完整的移动端网站）
 - [⭐️ 从 0 到 1 开发 API 开放平台](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247534541&idx=1&sn=3dfd13bd337715418294b7301af8fc50&chksm=e9c2a03adeb5292c479cd8a5b93656fb4cf64c89d21866888ab08ff107d80d13ee36862143d5&token=351205063&lang=zh_CN#rd)（保姆级、企业级项目教程）
-- [⭐️ 从 0 到 1 开发聚合搜索平台](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247539314&idx=1&sn=16fbb955d2e40eb6e3a3937d045e53f2&chksm=e9c2bd85deb53493b848e521eeecd38ac32a70176e38e7d303f46013cb361026f2bf562ff470&token=292259508&lang=zh_CN#rd)（保姆级、企业级项目教程）
+- [⭐️ 从 0 到 1 开发聚合搜索平台](https://www.code-nav.cn/post/1642462565038608385)（保姆级、企业级项目教程）
 - [⭐️ 编程导航兑奖系统开发](https://t.zsxq.com/0aJywwhj6)（编程导航网站真实开发过程大揭秘）
 - [⭐️ 任务记录工具网站](https://t.zsxq.com/03byfyNFi)
 - [⭐️ 项目训练营](https://t.zsxq.com/06EIMNr3R)（学习从立项到上线的完整做项目流程 + 优化思路）
