@@ -4,14 +4,6 @@
 
 > 星球项目已经帮助多名小伙伴拿到大厂 offer，建议看完本文，秋招季冲刺！
 
-## 🧧 618限时优惠！
-
-截止到 6 月 21 日 0 点，限时发放 **50 元优惠券**，过期不候！
-
-![](https://yupi-picture-1256524210.cos.ap-shanghai.myqcloud.com/1/618%E6%98%9F%E7%90%83%E7%BD%91%E7%AB%99%E4%BC%98%E6%83%A0.png)
-
-若优惠券无法访问，请点击：[https://t.zsxq.com/0fpwJBk75](https://t.zsxq.com/0fpwJBk75)
-
 
 ## 星球介绍
 
