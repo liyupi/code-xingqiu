@@ -31,6 +31,8 @@ API 开放平台项目第一期完整版：[点击在线观看](https://www.bili
 
 聚合搜索平台项目第一期完整版：[点击在线观看](https://www.bilibili.com/video/BV1ks4y1V7jC/)
 
+智能 BI 项目第一期完整版：[点击在线观看](https://www.bilibili.com/video/BV1Cg4y1G7oy)
+
 项目训练营：[点击在线观看](https://www.aliyundrive.com/s/rcFczasMKVK)，提取码: cu89
 
 

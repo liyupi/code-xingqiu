@@ -345,6 +345,7 @@ API 开放平台项目第一期完整版：[点击在线观看](https://www.bili
 - [⭐️ 伙伴匹配系统](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247527878&idx=1&sn=00ef3e8862cec2570eeb2e74a232c700&chksm=e9c28a31deb5032784071939437fba3fd6fdb810f0f849aa90536259d8d8bc25453328b86c12&token=351205063&lang=zh_CN#rd)（前后端完整的移动端网站）
 - [⭐️ 从 0 到 1 开发 API 开放平台](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247534541&idx=1&sn=3dfd13bd337715418294b7301af8fc50&chksm=e9c2a03adeb5292c479cd8a5b93656fb4cf64c89d21866888ab08ff107d80d13ee36862143d5&token=351205063&lang=zh_CN#rd)（保姆级、企业级项目教程）
 - [⭐️ 从 0 到 1 开发聚合搜索平台](https://www.code-nav.cn/post/1642462565038608385)（保姆级、企业级项目教程）
+- [⭐️ 从 0 到 1 开发智能 BI 平台](https://mp.weixin.qq.com/s/C4YUQXQGoww_hxYtcS8e5w)（保姆级、企业级项目教程）
 - [⭐️ 编程导航兑奖系统开发](https://t.zsxq.com/0aJywwhj6)（编程导航网站真实开发过程大揭秘）
 - [⭐️ 任务记录工具网站](https://t.zsxq.com/03byfyNFi)
 - [⭐️ 项目训练营](https://t.zsxq.com/06EIMNr3R)（学习从立项到上线的完整做项目流程 + 优化思路）
