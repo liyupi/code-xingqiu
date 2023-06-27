@@ -163,7 +163,7 @@
 
 ![](https://yupi.icu/img/yuso.png)
 
-智能 BI 项目
+[智能 BI 项目](https://mp.weixin.qq.com/s/C4YUQXQGoww_hxYtcS8e5w)
 
 ![](https://yupi-picture-1256524210.cos.ap-shanghai.myqcloud.com/1/1685804368024-b32db3b6-2071-48c0-a187-b6d44cd907bb.png)
 
