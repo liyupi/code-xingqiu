@@ -4,6 +4,14 @@
 
 > 星球项目已经帮助多名小伙伴拿到大厂 offer，建议看完本文，秋招季冲刺！
 
+## 🧧 新项目限时优惠！
+
+[星球新项目](https://t.zsxq.com/10JZOWjvN) 直播启动，截止到 7 月 30 日 0 点，限时发放 **40 元优惠券**，过期不候！
+
+![](https://yupi-picture-1256524210.cos.ap-shanghai.myqcloud.com/1/%E9%B1%BC%20OJ%20%E6%98%9F%E7%90%83%E4%BC%98%E6%83%A0%E5%88%B8%20.png)
+
+若优惠券无法访问，请点击：[https://t.zsxq.com/10JZOWjvN](https://t.zsxq.com/10JZOWjvN)
+
 
 ## 星球介绍
 
