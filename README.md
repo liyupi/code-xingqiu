@@ -4,14 +4,6 @@
 
 > 星球项目已经帮助多名小伙伴拿到大厂 offer，建议看完本文，秋招季冲刺！
 
-## 🧧 新项目限时优惠！
-
-[星球新项目](https://t.zsxq.com/10JZOWjvN) 直播启动，截止到 7 月 30 日 0 点，限时发放 **40 元优惠券**，过期不候！
-
-![](https://yupi-picture-1256524210.cos.ap-shanghai.myqcloud.com/1/%E9%B1%BC%20OJ%20%E6%98%9F%E7%90%83%E4%BC%98%E6%83%A0%E5%88%B8%20.png)
-
-若优惠券无法访问，请点击：[https://t.zsxq.com/10JZOWjvN](https://t.zsxq.com/10JZOWjvN)
-
 
 ## 星球介绍
 
@@ -147,6 +139,8 @@
 
 鱼皮原创的、**从 0 到 1 全程直播** 、手把手的、前后端完整的全栈项目教程，包你学会项目的开发经验、在简历上写出加分项目！
 
+最新项目（正在直播开发中）：[OJ 在线判题系统](https://mp.weixin.qq.com/s/zBdW6tx1xQXK1vUGC9OjBg)
+
 以下是几期已完结的项目，加入星球可获取往期所有回放、笔记、答疑。
 
 [用户中心项目](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247508517&idx=1&sn=66803910cf2e7d88e6cab30df9271d5d&chksm=e9c245d2deb5ccc4a2287198f594e7fbcb43d00b0101d9cab77ff17c1412c46e5d99a438e48d&token=351205063&lang=zh_CN#rd) ：
@@ -195,6 +189,8 @@ API 开放平台项目第一期完整版：[点击在线观看](https://www.bili
 聚合搜索平台项目第一期完整版：[点击在线观看](https://www.bilibili.com/video/BV1ks4y1V7jC/)
 
 智能 BI 项目第一期完整版：[点击在线观看](https://www.bilibili.com/video/BV1Cg4y1G7oy)
+
+OJ 在线判题系统第一期完整版：[点击在线观看](https://www.bilibili.com/video/BV1k841127EK)
 
 
 
